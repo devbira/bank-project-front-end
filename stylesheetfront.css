@@ -1,0 +1,63 @@
+body {
+    background-color: #32A26E;
+}
+
+fieldset {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    gap: 20px;
+    width: auto;
+    height: auto;
+    font-family: Segoe UI;
+    text-decoration: solid;
+    justify-content: center;
+}
+
+.sub-button {
+    background-image: linear-gradient(90deg, #20BF55, #01BAEF);
+    border-radius: 25px;
+    border-color: rgb(98, 245, 135);
+    width: 150px;
+    height: 40px;
+    color: aliceblue;
+    text-transform: uppercase;
+    display: block;
+    margin-left: 45vw;
+}
+
+.ema {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.user {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.num {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.pass {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
+
+.names {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    height: 35px;
+}
